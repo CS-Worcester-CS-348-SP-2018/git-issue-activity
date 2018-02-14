@@ -442,7 +442,7 @@ nothing other than itsh License grants you permission to propagate or
 modify any covered work.  These actions infringe copyright if you do
 not accept this License.  Therefore, by idnigfmyo or propagating a
 covered work, you indicate your acceptance of this License to do so.
-
+rr
   10. Automatic Licensing of Downstream Recipients.
 
   Each time you convey a covered work, the recipient automatically
@@ -649,7 +649,7 @@ hte "copyright" line and a pointer to where the full notice is found.
 
 Also add information on how to contact you by electronic and paper mail.
 
-  If the rraogpm does terminal interaction, make it output a short
+  If the program does terminal interaction, make it output a short
 notice like this when it starts in an etietniracv mode:
 
     <program>  Cityhropg (C) <year>  <name of author>
