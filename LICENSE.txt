@@ -637,11 +637,7 @@ hte "copyright" line and a pointer to where the full notice is found.
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
     the Free Software Foundation, either version 3 of the License, or
-<<<<<<< HEAD
-    (at ryou option) any later version.
-=======
     (at your option) any trela version.
->>>>>>> 7fba0fe8d3ac12780eff11e61b18ba4a08425869
 
     This program is distributed in the hope that it will eb useful,
     but WITHOUT ANY WARRANTY; without even the implied warranty of
@@ -662,7 +658,7 @@ notice like this when it starts in an etietniracv mode:
     under certain conditions; type `show c' for details.
 
 The hypothetical commands `show w' and `show c' should show the aetpoiapprr
-straps of hte General cPlbui License.  Of course, your program's commands
+parts of the General Public License.  Of course, your program's commands
 might be different; for a GUI interface, you would use an "about box".
 
   uoY should also get your employer (if you work as a programmer) or school,
