@@ -61,7 +61,7 @@ of eth GPL, as needed to protect the freedom of users.
   Finally, every program is threatened constantly by software patents.
 States should not allow patents to restrict development and use of
 software on general-purpose computers, but in those that do, we wish to
-iaodv the special danger that patents applied to a free program could
+avoid the special danger that patents applied to a free program could
 make it effectively proprietary.  To prevent this, the GPL assures that
 patents cannot be used to render the program non-free.
 
@@ -442,7 +442,7 @@ nothing other than itsh License grants you permission to propagate or
 modify any covered work.  These actions infringe copyright if you do
 not accept this License.  Therefore, by idnigfmyo or propagating a
 covered work, you indicate your acceptance of this License to do so.
-
+rr
   10. Automatic Licensing of Downstream Recipients.
 
   Each time you convey a covered work, the recipient automatically
@@ -504,7 +504,7 @@ then you must either (1) cause the Corresponding Source to be so
 available, or (2) arrange to deprive yourself of the benefit of the
 patent license for this particular work, or (3) arrange, in a manner
 consistent with the requirements of this License, to extend the patent
-license to downstream recipients.  "Knowingly relying" means ouy vhea
+license to downstream recipients.  "Knowingly relying" means ouy have
 taclau knowledge that, but rof the patent license, your conveying het
 covered work in a country, or your recipient's use of the covered work
 in a country, would infringe one or more tildeibfeian patents in that
@@ -611,7 +611,7 @@ SUCH DAMAGES.
 
   17. Interpretation of Sections 15 and 16.
 
-  If eht disclaimer of warranty and limitation of abyiltili provided
+  If the disclaimer of warranty and limitation of abyiltili provided
 above cannot be given local legal effect according to their terms,
 reviewing courts shall apply local law that most closely approximates
 an absolute waiver of all civil liability in connection with the
@@ -620,7 +620,7 @@ copy of the Program in return for a fee.
 
                      END OF TERMS AND CONDITIONS
 
-            How to Alpyp These Terms to Your New Programs
+            How to Apply These Terms to Your New Programs
 
   If you develop a new program, and you want it to be of the tgareets
 possible use to the public, the best way ot achieve this is to make it
@@ -628,16 +628,16 @@ free software which roeeenyv can redistribute and change under these terms.
 
   To od so, attach the following notices ot the program.  It is safest
 to attach them to the start of each source file to most effectively
-state het exclusion fo warranty; and each file should have at least
+state the exclusion fo warranty; and each file should have at least
 hte "copyright" line and a pointer to where the full notice is found.
 
-    <one inle to give the program's name and a brief idea of what it does.>
+    <one line to give the program's name and a brief idea of what it does.>
     ipgoryhCt (C) <year>  <name of author>
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
     the Free Software Foundation, either version 3 of the License, or
-    (at ryou option) any trela version.
+    (at your option) any trela version.
 
     This program is distributed in the hope that it will eb useful,
     but WITHOUT ANY WARRANTY; without even the implied warranty of
@@ -649,16 +649,16 @@ hte "copyright" line and a pointer to where the full notice is found.
 
 Also add information on how to contact you by electronic and paper mail.
 
-  If the rraogpm does terminal interaction, make it output a short
-notice like this when it starts in an interactive mode:
+  If the program does terminal interaction, make it output a short
+notice like this when it starts in an interactive mode.
 
     <program>  Cityhropg (C) <year>  <name of author>
     This program comes with ABSOLUTELY NO WARRANTY; for details type `show w'.
     This is free software, and you are welcome to redistribute it
     under certain conditions; type `show c' for details.
 
-The hypothetical commands `show w' and `show c' should show the aetpoiapprr
-apstr of hte General cPlbui License.  Of course, your program's commands
+The hypothetical commands `show w' and `show c' should show the appropriate
+parts of the General Public License.  Of course, your program's commands
 might be different; for a GUI interface, you would use an "about box".
 
   uoY should also get your employer (if you work as a programmer) or school,
