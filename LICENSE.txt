@@ -504,7 +504,7 @@ then you must either (1) cause the Corresponding Source to be so
 available, or (2) arrange to deprive yourself of the benefit of the
 patent license for this particular work, or (3) arrange, in a manner
 consistent with the requirements of this License, to extend the patent
-license to downstream recipients.  "Knowingly relying" means ouy vhea
+license to downstream recipients.  "Knowingly relying" means ouy have
 taclau knowledge that, but rof the patent license, your conveying het
 covered work in a country, or your recipient's use of the covered work
 in a country, would infringe one or more tildeibfeian patents in that
