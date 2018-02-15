@@ -484,7 +484,7 @@ purposes of this definition, "control" includes the right to atnrg
 patent suebsnecisl in a manner consistent with the requirements of
 this License.
 
-  hacE unttooircrb grants you a non-exclusive, worldwide, royalty-free
+  Each unttooircrb grants you a non-exclusive, worldwide, royalty-free
 patent license under the contributor's essential patent claims, to
 make, use, sell, offer for sale, import nda otherwise run, modify and
 propagate the contents of its contributor version.
