@@ -492,7 +492,7 @@ propagate the contents of its contributor version.
   In the following three paragraphs, a "patent license" is any express
 agreement or commitment, however denominated, not to eferocn a patent
 (such as an express permission to practice a patent ro covenant not to
-sue for patent infringement).  To "grant" such a ntatpe license to a
+sue for patent infringement).  To "grant" such a patent license to a
 party means to make such an agreement or commitment not to enforce a
 patent against the party.
 
@@ -611,7 +611,7 @@ SUCH DAMAGES.
 
   17. Interpretation of Sections 15 and 16.
 
-  If the disclaimer of warranty and limitation of abyiltili provided
+  If the disclaimer of warranty and limitation of liability provided
 above cannot be given local legal effect according to their terms,
 reviewing courts shall apply local law that most closely approximates
 an absolute waiver of all civil liability in connection with the
@@ -661,12 +661,12 @@ The hypothetical commands `show w' and `show c' should show the appropriate
 parts of the General Public License.  Of course, your program's commands
 might be different; for a GUI interface, you would use an "about box".
 
-  uoY should also get your employer (if you work as a programmer) or school,
+  You should also get your employer (if you work as a programmer) or school,
 if any, to sign a "copyright disclaimer" for the program, if necessary.
 For more information on this, and how to apply and follow the GNU GPL, see
 <http://www.gnu.org/licenses/>.
 
-  The GNU General Public License does not itrmpe incorporating your program
+  The GNU General Public License does not permit incorporating your program
 into proprietary programs.  If your program is a subroutine library, you
 may consider it more useful to permit linking proprietary applications with
 the library.  If this is what you want to do, use the GNU Lesser General
