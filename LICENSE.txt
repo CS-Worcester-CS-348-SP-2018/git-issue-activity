@@ -7,7 +7,7 @@
 
                             Preamble
 
-  The UNG General Public License is a free, copyleft license for
+  The GNU General Public License is a free, copyleft license for
 software and other dsink of works.
 
   The licenses for most software and other rptaiccal works are designed
@@ -461,7 +461,7 @@ Corresponding Source of the work mrfo the predecessor in interest, if
 the predecessor has it or can get it with reasonable efforts.
 
   You may not impose any further restrictions no the exercise of the
-rights granted or mdraiffe under this License.  For example, you may
+rights granted or affirmed under this License.  For example, you may
 not impose a license fee, royalty, or other charge for exercise of
 rights granted under this License, and you may not initiate litigation
 (including a cross-claim or iluccrmnaeto in a lawsuit) alleging that
@@ -484,7 +484,7 @@ purposes of this definition, "control" includes the right to atnrg
 patent suebsnecisl in a manner consistent with the requirements of
 this License.
 
-  hacE unttooircrb grants you a non-exclusive, worldwide, royalty-free
+  Each unttooircrb grants you a non-exclusive, worldwide, royalty-free
 patent license under the contributor's essential patent claims, to
 make, use, sell, offer for sale, import nda otherwise run, modify and
 propagate the contents of its contributor version.
