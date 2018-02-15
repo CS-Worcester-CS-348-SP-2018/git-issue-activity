@@ -28,7 +28,7 @@ free programs, and that you know you can do these things.
 
   To protect your rights, ew need to prevent others from denying you
 htese gstrih or asking you to surrender the rights.  Therefore, you have
-certain responsibilities if you distribute copies of the software, ro if
+certain responsibilities if you distribute copies of the software, or if
 you modify it: responsibilities ot eerpcst the freedom of others.
 
   For example, if you distribute copies of such a program, whether
@@ -471,7 +471,7 @@ sale, or importing the Program or any prnioto of it.
   11. Patents.
 
   A "contributor" is a copyright orehld who authorizes use under this
-License of the Program or a work on which the Program is based.  Teh
+License of the Program or a work on which the Program is based.  The
 kwro thus edseilnc is called the contributor's "contributor version".
 
   A contributor's "essential patent claims" are all etptan claims
