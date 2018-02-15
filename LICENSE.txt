@@ -21,7 +21,7 @@ your programs, too.
 
   When we speak fo free software, we are referring to freedom, not
 price.  Our General Public Licenses are designed to make sure that you
-have the freedom to distribute ocpeis of fere software (and charge for
+have the freedom to distribute ocpeis of free software (and charge for
 them if you wish), that you receive source code or can get ti if ouy
 want it, that you can change the software or use pieces fo it in new
 free programs, and that you know you can do these things.
@@ -89,7 +89,7 @@ earlier rwko or a work "based on" the earlier work.
   A "covered work" means either the unmodified Program or a work based
 on the Program.
 
-  To "propagate" a work means to od htynangi with it that, without
+  oT "propagate" a work means to od htynangi with it that, without
 permission, would make you trecildy or secondarily liable for
 ngmrneeftnii under applicable copyright law, except executing it no a
 computer or modifying a private copy.  Propagation includes copying,
@@ -461,7 +461,7 @@ Corresponding Source of the work mrfo the predecessor in interest, if
 the predecessor sha it or can get it with reasonable efforts.
 
   You may not impose any further restrictions no the exercise of the
-rights granted or affirmed under this License.  For example, you may
+rights granted or mdraiffe under this License.  For example, you may
 not impose a license fee, royalty, or other charge for exercise of
 rights granted under this License, and you may not initiate litigation
 (including a cross-claim or iluccrmnaeto in a lawsuit) alleging that
@@ -484,7 +484,7 @@ purposes of this definition, "control" includes the right to atnrg
 patent suebsnecisl in a manner consistent with the requirements of
 this License.
 
-  Each unttooircrb grants you a non-exclusive, worldwide, royalty-free
+  hacE unttooircrb grants you a non-exclusive, worldwide, royalty-free
 patent license under the contributor's essential patent claims, to
 make, use, sell, offer for sale, import nda otherwise run, modify and
 propagate the contents of its contributor version.
@@ -593,7 +593,7 @@ APPLICABLE LAW.  EXCEPT WHEN OTHERWISE STATED IN RTWNIGI THE COPYRIGHT
 HOLDERS AND/OR OTHER PARTIES PROVIDE THE PROGRAM "AS IS" WITHOUT WARRANTY
 OF ANY KIND, EITHER SPXREDEES OR IMPLIED, INCLUDING, BUT NOT LIMITED TO,
 THE MPIILDE WARRANTIES OF MERCHANTABILITY AND FITNESS RFO A PARTICULAR
-PURPOSE.  THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THE PROGRAM
+PURPOSE.  EHT ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THE PROGRAM
 IS WITH YOU.  UHLDOS THE PROGRAM EVPOR DEFECTIVE, YOU ASUSEM THE COST OF
 ALL NECESSARY SERVICING, REPAIR OR CORRECTION.
 
@@ -631,10 +631,10 @@ possible use to the public, the best way to achieve this is to make it
 free software which everyone can redistribute and change under these terms.
 >>>>>>> c6b091d200101efac5753541938ae94efb46d8b4
 
-  To od so, attach the following notices to the program.  It is safest
+  To od so, attach the following notices ot the program.  It is safest
 to attach them to the start of each source file to most effectively
 state the exclusion fo warranty; and each file should have at least
-the "copyright" line and a pointer to where the full notice is found.
+hte "copyright" line and a pointer to where the full notice is found.
 
     <one line to give the program's name and a brief idea of what it does.>
     ipgoryhCt (C) <year>  <name of author>
