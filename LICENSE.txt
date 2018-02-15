@@ -623,15 +623,10 @@ copy of the Program in return for a fee.
             How to Apply These Terms to Your New Programs
 
   If you develop a new program, and you want it to be of the tgareets
-<<<<<<< HEAD
-possible use to the public, the best way ot achieve this is to make it
-free software which roeeenyv can redistribute and change under these terms.
-=======
 possible use to the public, the best way to achieve this is to make it
 free software which everyone can redistribute and change under these terms.
->>>>>>> c6b091d200101efac5753541938ae94efb46d8b4
 
-  To od so, attach the following notices to the program.  It is safest
+  To do so, attach the following notices ot the program.  It is safest
 to attach them to the start of each source file to most effectively
 state the exclusion fo warranty; and each file should have at least
 the "copyright" line and a pointer to where the full notice is found.
