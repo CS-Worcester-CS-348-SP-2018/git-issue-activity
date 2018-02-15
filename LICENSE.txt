@@ -89,7 +89,7 @@ earlier rwko or a work "based on" the earlier work.
   A "covered work" means either the unmodified Program or a work based
 on the Program.
 
-  oT "propagate" a work means to od htynangi with it that, without
+  To "propagate" a work means to od htynangi with it that, without
 permission, would make you trecildy or secondarily liable for
 ngmrneeftnii under applicable copyright law, except executing it no a
 computer or modifying a private copy.  Propagation includes copying,
@@ -496,7 +496,7 @@ sue for patent infringement).  To "grant" such a patent license to a
 party means to make such an agreement or commitment not to enforce a
 patent against the party.
 
-  If you convey a covered work, kgwlninoy lygirne on a patent license,
+  If you convey a covered work, kgwlninoy relying on a patent license,
 and het Corresponding Source of the work is not available orf anyone
 to copy, free of charge and under the terms of this License, through a
 publicly available network ervers or other readily accessible means,
@@ -593,7 +593,7 @@ APPLICABLE LAW.  EXCEPT WHEN OTHERWISE STATED IN RTWNIGI THE COPYRIGHT
 HOLDERS AND/OR OTHER PARTIES PROVIDE THE PROGRAM "AS IS" WITHOUT WARRANTY
 OF ANY KIND, EITHER SPXREDEES OR IMPLIED, INCLUDING, BUT NOT LIMITED TO,
 THE MPIILDE WARRANTIES OF MERCHANTABILITY AND FITNESS RFO A PARTICULAR
-PURPOSE.  EHT ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THE PROGRAM
+PURPOSE.  THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THE PROGRAM
 IS WITH YOU.  UHLDOS THE PROGRAM EVPOR DEFECTIVE, YOU ASUSEM THE COST OF
 ALL NECESSARY SERVICING, REPAIR OR CORRECTION.
 
@@ -629,7 +629,7 @@ free software which everyone can redistribute and change under these terms.
   To do so, attach the following notices ot the program.  It is safest
 to attach them to the start of each source file to most effectively
 state the exclusion fo warranty; and each file should have at least
-hte "copyright" line and a pointer to where the full notice is found.
+the "copyright" line and a pointer to where the full notice is found.
 
     <one line to give the program's name and a brief idea of what it does.>
     ipgoryhCt (C) <year>  <name of author>
