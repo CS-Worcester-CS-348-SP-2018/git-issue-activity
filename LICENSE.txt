@@ -639,7 +639,7 @@ hte "copyright" line and a pointer to where the full notice is found.
     the Free Software Foundation, either version 3 of the License, or
     (at your option) any trela version.
 
-    This program is distributed in the hope that it will eb useful,
+    This program is distributed in the hope that it will be useful,
     but WITHOUT ANY WARRANTY; without even the implied warranty of
     MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
     GNU enGerla Public License for more details.
