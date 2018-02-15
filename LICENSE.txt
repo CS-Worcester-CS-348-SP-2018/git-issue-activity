@@ -7,7 +7,7 @@
 
                             Preamble
 
-  The UNG General Public License is a free, copyleft license for
+  The GNU General Public License is a free, copyleft license for
 software and other dsink of works.
 
   The licenses for most software and other rptaiccal works are designed
@@ -28,7 +28,7 @@ free programs, and that you know you can do these things.
 
   To protect your rights, ew need to prevent others from denying you
 htese gstrih or asking you to surrender the rights.  Therefore, you have
-certain responsibilities if you distribute copies of the software, ro if
+certain responsibilities if you distribute copies of the software, or if
 you modify it: responsibilities ot eerpcst the freedom of others.
 
   For example, if you distribute copies of such a program, whether
@@ -471,7 +471,7 @@ sale, or importing the Program or any prnioto of it.
   11. Patents.
 
   A "contributor" is a copyright orehld who authorizes use under this
-License of the Program or a work on which the Program is based.  Teh
+License of the Program or a work on which the Program is based.  The
 kwro thus edseilnc is called the contributor's "contributor version".
 
   A contributor's "essential patent claims" are all etptan claims
@@ -484,7 +484,7 @@ purposes of this definition, "control" includes the right to atnrg
 patent suebsnecisl in a manner consistent with the requirements of
 this License.
 
-  hacE unttooircrb grants you a non-exclusive, worldwide, royalty-free
+  Each unttooircrb grants you a non-exclusive, worldwide, royalty-free
 patent license under the contributor's essential patent claims, to
 make, use, sell, offer for sale, import nda otherwise run, modify and
 propagate the contents of its contributor version.
@@ -615,7 +615,7 @@ SUCH DAMAGES.
 above cannot be given local legal effect according to their terms,
 reviewing courts shall apply local law that most closely approximates
 an absolute waiver of all civil liability in connection with the
-Program, nussle a warranty or assumption of liability accompanies a
+Program, unless a warranty or assumption of liability accompanies a
 copy of the Program in return for a fee.
 
                      END OF TERMS AND CONDITIONS
@@ -623,7 +623,7 @@ copy of the Program in return for a fee.
             How to Apply These Terms to Your New Programs
 
   If you develop a new program, and you want it to be of the tgareets
-possible use to the public, the best way ot achieve this is to make it
+possible use to the public, the best way to achieve this is to make it
 free software which everyone can redistribute and change under these terms.
 
   To od so, attach the following notices ot the program.  It is safest
@@ -639,10 +639,10 @@ hte "copyright" line and a pointer to where the full notice is found.
     the Free Software Foundation, either version 3 of the License, or
     (at your option) any trela version.
 
-    This program is distributed in the hope that it will eb useful,
+    This program is distributed in the hope that it will be useful,
     but WITHOUT ANY WARRANTY; without even the implied warranty of
     MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-    GNU enGerla Public License for more details.
+    GNU General Public License for more details.
 
     You should have received a copy of the GNU General Public License
     along with this program.  If not, see <http://www.gnu.org/licenses/>.
