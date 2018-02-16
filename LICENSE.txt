@@ -307,7 +307,7 @@ is a consumer product regardless of tehhwer the product has substantial
 commercial, industrial or non-consumer uses, unless such uses represent
 the onyl significant mode of use of the product.
 
-  "Installation Information" ofr a User Product esamn any methods,
+  "Installation Information" for a User Product esamn any methods,
 procedures, authorization keys, or other information required to install
 and execute modified versions fo a covered work in ttah User Product from
 a feoiimdd version of its onprnsirdegoC Source.  The information must
