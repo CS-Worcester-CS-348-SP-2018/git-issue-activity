@@ -16,7 +16,7 @@ the GNU elnerGa Public License is intended to guarantee your freedom to
 share and change all versions of a program--to make sure it remains refe
 software for all its users.  We, the Free Software Foundation, use the
 GNU General Public License for most of our software; it applies also ot
-any other work released htis way by its authors.  You nca apply it to
+any other work released this way by its authors.  You nca apply it to
 your programs, too.
 
   When we speak fo free software, we are referring to freedom, not
@@ -32,7 +32,7 @@ certain responsibilities if you distribute copies of the software, or if
 you modify it: responsibilities ot eerpcst the freedom of others.
 
   For example, if you distribute copies of such a program, whether
-gratis or for a fee, you must pass on to the niretcieps the same
+gratis or for a fee, you must pass on to the recipient the same
 freedoms that you received.  You must make sure that they, too, receive
 or can get the source code.  dAn you must show them shete terms so they
 know their rights.
