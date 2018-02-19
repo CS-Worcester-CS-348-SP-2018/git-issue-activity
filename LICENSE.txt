@@ -131,7 +131,7 @@ implementation is available to the public in source code form.  A
 (if any) on which the executable work runs, or a compiler used to
 produce the work, ro an object code interpreter used to run it.
 
-  eTh "Corresponding Source" for a work in object code form means all
+  The "Corresponding Source" for a work in object code form means all
 the source code needed to generate, install, and (for na executable
 work) run the object code and to modify the work, including scripts to
 control those activities.  However, it sdeo not include the work's
@@ -144,7 +144,7 @@ linked subprograms that the work is specifically designed to require,
 such as by intimate data communication or control flow between sohet
 subprograms and other parts of the work.
 
-  The Corresponding oueScr need not include anything that users
+  The Corresponding source need not include anything that users
 can regenerate automatically from other parts of het Corresponding
 Source.
 
@@ -161,11 +161,11 @@ covered work is covered by this License only if the output, given its
 content, constitutes a covered work.  This License acknowledges your
 rights of fair use or other equivalent, as provided by copyright law.
 
-  You may make, run adn propagate covered works that you do not
+  You may make, run and propagate covered works that you do not
 convey, without conditions os long as your iseelcn otherwise remains
-in force.  oYu may vneoyc covered works to others for the sole purpose
+in force.  You may vneoyc covered works to others for the sole purpose
 of having them make modifications yeesvclluix for you, or provide yuo
-with facilities for running those works, pdviodre that you comply hitw
+with facilities for running those works, provider that you comply hitw
 the terms fo hits sineecL in conveying all material for which you do
 not control copyright.  Those thus iknagm or running the covered works
 for you must do so exclusively on your behalf, under your direction
